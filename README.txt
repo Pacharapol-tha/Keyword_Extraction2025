@@ -12,6 +12,7 @@ Python เวอร์ชันแนะนำ: 3.9 - 3.11
 
 ติดตั้ง dependencies ด้วยคำสั่ง:
 pip install pandas torch sentence-transformers scikit-learn
+/*pip install dependencies ส่วนที่เหลือ*/
 
 หากต้องการใช้ GPU ให้ติดตั้ง PyTorch เวอร์ชันที่รองรับ CUDA
 ดูได้ที่ https://pytorch.org/get-started/locally/
